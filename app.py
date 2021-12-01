@@ -2,6 +2,23 @@ import string
 import random
 import streamlit as st
 
+hide_st_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        button[title="View fullscreen"] {
+        display: none;
+        }
+
+        button[title="View fullscreen"]:hover {
+        display: none;
+        }
+        </style>
+        """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
+
 s1 = list(string.ascii_lowercase)
 s2 = list(string.ascii_uppercase)
 s3 = list(string.digits)
