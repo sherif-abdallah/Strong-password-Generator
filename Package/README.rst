@@ -12,7 +12,7 @@ A Library for Denoising Single-Cell Data with Random Matrix Theory
 
 * Free software: MIT license
 * Homepage: https://bit.ly/3q4W848
-* Instructions and Tutorial: https://bit.ly/3F1QrYU
+* Instructions and Tutorial: https://bit.ly/3t9TKuP
 
 
 Features
@@ -26,7 +26,7 @@ PyRand only works with Python 3 (not Python 2). The easiest way to install Rando
 
 It's convenient to run PyRand in a `Jupyter Notebook`_.
 
-You can find detailed instructions and a tutorial https://bit.ly/3F1QrYU.
+You can find detailed instructions and a tutorial https://bit.ly/3t9TKuP.
 
 .. _`Jupyter Notebook`: http://jupyter.org/
 
