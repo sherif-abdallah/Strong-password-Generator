@@ -6,8 +6,8 @@ PyRand
 A Library for Denoising Single-Cell Data with Random Matrix Theory
 
 -   Free software: MIT license
--   Homepage: <https://bit.ly/3q4W848>
--   Instructions and Tutorial: <https://bit.ly/3t9TKuP>
+-   [Homepage](https://github.com/sherif-abdallah/PyRand/) 
+-   [Instructions and Tutorial](https://github.com/sherif-abdallah/PyRand/blob/main/README.md)
 
 Features
 --------
@@ -22,10 +22,9 @@ pip install randomly
 It\'s convenient to run PyRand in a [Jupyter
 Notebook](http://jupyter.org/).
 
-You can find detailed instructions and a tutorial
-<https://bit.ly/3t9TKuP>.
+You can find detailed instructions and a tutorial [here](https://github.com/sherif-abdallah/PyRand/blob/main/README.md).
 
 Credits
 -------
 
-This package was created with Sherif Abdullah
+This package was created with [Sherif Abdullah](https://github.com/sherif-abdallah/)
