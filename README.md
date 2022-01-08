@@ -16,7 +16,7 @@ PyRand only works with Python 3 (not Python 2). The easiest way to
 install Randomly is via the command line with pip:
 
 ``` {.shell}
-pip install https://bit.ly/pyrand
+pip3 install https://bit.ly/pyrand
 ```
 
 It\'s convenient to run PyRand in a [Jupyter
