@@ -33,6 +33,4 @@ You can find detailed instructions and a tutorial https://bit.ly/3t9TKuP.
 Credits
 -------
 
-This package was created with Sherif-Abdullah
-
-.. _Sherif-Abdullah: https://github.com/sherif-abdallah/PyRand/edit/main/Package/README.rst
+This package was created with (http://sherif.rf.gd/)[Sherif]
