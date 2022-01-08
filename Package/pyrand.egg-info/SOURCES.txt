@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pyrand/__init__.py
+pyrand.egg-info/PKG-INFO
+pyrand.egg-info/SOURCES.txt
+pyrand.egg-info/dependency_links.txt
+pyrand.egg-info/top_level.txt
