@@ -33,4 +33,4 @@ You can find detailed instructions and a tutorial https://bit.ly/3t9TKuP.
 Credits
 -------
 
-This package was created with (http://sherif.rf.gd/)[Sherif]
+This package was created with [http://sherif.rf.gd/](Sherif Abdullah)
