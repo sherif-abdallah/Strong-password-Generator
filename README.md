@@ -1,7 +1,7 @@
 PyRand
 ======
 
-[![image](https://img.shields.io/pypi/v/randomly.svg)](https://github.com/sherif-abdallah/PyRand)
+[![image](https://img.shields.io/pypi/v/1)](https://github.com/sherif-abdallah/PyRand)
 
 A Library for Denoising Single-Cell Data with Random Matrix Theory
 
